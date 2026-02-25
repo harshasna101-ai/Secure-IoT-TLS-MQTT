@@ -78,7 +78,9 @@ Subscriber / Dashboard
 
 Certificates were generated using OpenSSL to establish mutual authentication.
 
-![OpenSSL Setup](screenshots/openssl_setup.png)
+<img width="862" height="300" alt="Screenshot 2025-10-31 223600" src="https://github.com/user-attachments/assets/d7a24fc5-22ce-4674-a030-18fd9400ebdd" />
+
+
 
 Certificates Created:
 
@@ -92,7 +94,8 @@ Certificates Created:
 
 Node-RED connects to the broker using TLS encryption.
 
-![Node-RED Connected](screenshots/node_red_connected.png)
+<img width="2293" height="1157" alt="image" src="https://github.com/user-attachments/assets/e62a616b-3f96-4a1c-aa99-283552d7ea37" />
+
 
 Key Highlights:
 
@@ -106,7 +109,8 @@ Key Highlights:
 
 Wireshark capture showing readable MQTT payload.
 
-![Insecure Packet](screenshots/insecure_packet.png)
+<img width="449" height="354" alt="Screenshot 2025-10-31 192044" src="https://github.com/user-attachments/assets/1eb1c458-862b-4b05-bd7c-4c48060ec855" />
+
 
 Observation:
 
@@ -120,7 +124,8 @@ Observation:
 
 Wireshark capture after enabling TLS.
 
-![Secure TLS Packet](screenshots/secure_tls_packet.png)
+<img width="960" height="564" alt="image" src="https://github.com/user-attachments/assets/a3c2588a-03dc-4ccb-a8aa-1e95d8ec418e" />
+
 
 Observation:
 
