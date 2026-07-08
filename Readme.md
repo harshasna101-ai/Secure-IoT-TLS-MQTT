@@ -208,7 +208,7 @@ Private keys are excluded from this repository:
 
 ## 👨‍💻 Authors
 
-**Harsha Vardhan KS — 23MIA1134**  
+**Harsha Vardhan KS**  
 
 ---
 
